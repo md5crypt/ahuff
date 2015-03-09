@@ -4,5 +4,5 @@ It's like forcing a already open door with a sponge!
 But it works, and in O(logn) time!
 
 Usage:
-	node ahuff.js <file> for compression
-	node ahuff.js x <file> for decompression
+	node ahuff.js &lt;file&gt; for compression
+	node ahuff.js x &gt;file&lt; for decompression
