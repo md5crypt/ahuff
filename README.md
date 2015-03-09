@@ -5,4 +5,4 @@ But it works, and in O(logn) time!
 
 Usage:
 	node ahuff.js &lt;file&gt; for compression
-	node ahuff.js x &gt;file&lt; for decompression
+	node ahuff.js x &lt;file&gt; for decompression
